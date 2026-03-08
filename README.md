@@ -29,9 +29,5 @@ qmake AI_yuyin.pro
 make -j
 ```
 
-## Notes
-- Do not commit secrets/keys/models; use `.gitignore` and external provisioning
-- Large media and model files should be delivered via object storage (OSS)
-- Replace `CloudOssClient::uploadBytes` with actual OSS SDK calls
-- Wire `CloudIoTClient` to your MQTT/TSL adapter and Aliyun IoT Core
+
 
