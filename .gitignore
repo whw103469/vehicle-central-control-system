@@ -1,0 +1,46 @@
+# Build artifacts
+/build/
+*.o
+*.obj
+*.a
+*.so*
+*.dll
+*.dylib
+*.exe
+*.lib
+*.pch
+*.tmp
+*.log
+
+# Qt generated files
+moc_*.cpp
+ui_*.h
+qrc_*.cpp
+*.pro.user
+*.user
+*.user.*
+.qmake.stash
+
+# IDE files
+.DS_Store
+.vscode/
+.idea/
+
+# Media and large binaries (keep out of repo)
+*.mp4
+*.ts
+*.m3u8
+*.jpg
+*.jpeg
+*.png
+*.wav
+*.onnx
+*.model
+*.bin
+
+# Local configs and credentials
+.env
+.env.*
+*.pem
+*.key
+
