@@ -21,7 +21,6 @@ An offline-first in-vehicle voice assistant and multimedia control system built 
 - `BluetoothController/Dialog`: device scan, connect, AVRCP control, metadata
 - `CloudIoTClient`: telemetry/events publishing, remote command handling
 - `SentinelH264Streamer`: H.264 short segments (MP4) encoder in memory
-- `CloudOssClient`: placeholder to upload segments to OSS and return URLs
 
 ## Build
 Requires Qt 5.15 (Widgets, Multimedia, Network, SerialBus, DBus, Bluetooth) and FFmpeg libs:
