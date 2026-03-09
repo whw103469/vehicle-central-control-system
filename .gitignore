@@ -30,9 +30,6 @@ qrc_*.cpp
 *.mp4
 *.ts
 *.m3u8
-*.jpg
-*.jpeg
-*.png
 *.wav
 *.onnx
 *.model
