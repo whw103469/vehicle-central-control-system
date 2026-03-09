@@ -1,3 +1,7 @@
+n![UI Overview](docs/images/ui.png)
+
+n![UI Overview](docs/images/ui.png)
+
 # Vehicle Central Control System
 
 An offline-first in-vehicle voice assistant and multimedia control system built with Qt 5.15, integrating wake word detection, ASR/TTS, music playback, camera preview, and CAN-bus vehicle control. Designed for embedded Linux boards (e.g., RK3568).
